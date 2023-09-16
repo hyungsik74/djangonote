@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,Q as r}from"./chunks/framework.e39b7a49.js";const m=JSON.parse('{"title":"3장. 설문조사","description":"","frontmatter":{},"headers":[],"relativePath":"ch03/index.md","filePath":"ch03/index.md"}'),o={name:"ch03/index.md"},s=r("",8),n=[s];function i(l,c,_,d,h,p){return t(),a("div",null,n)}const u=e(o,[["render",i]]);export{m as __pageData,u as default};
