@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s,Q as a}from"./chunks/framework.a17dec5c.js";const f=JSON.parse('{"title":"2. 사전준비 단계","description":"","frontmatter":{},"headers":[],"relativePath":"ch02/index.md","filePath":"ch02/index.md"}'),c={name:"ch02/index.md"},o=a("",3),_=[o];function n(i,r,d,l,h,p){return t(),s("div",null,_)}const u=e(c,[["render",n]]);export{f as __pageData,u as default};
