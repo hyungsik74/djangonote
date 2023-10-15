@@ -1,0 +1,1 @@
+const s="/djangonote/assets/ch06-06-01_01.b2d13f93.png",o="/djangonote/assets/ch06-06-01_02.f2463b3d.png",t="/djangonote/assets/ch06-06-01_06.35e36a36.png",n="/djangonote/assets/ch06-06-01_05.d5a961e9.png",a="/djangonote/assets/ch06-06-01_11.a18cebe1.png";export{s as _,o as a,t as b,n as c,a as d};
